@@ -1,0 +1,22 @@
+{
+  "Node": "Node",
+  "Nodes": "Nodes",
+  "Edit": "Rediger Node",
+  "Add": "Tilføj Node",
+  "Update": "Opdater Node",
+  "Delete": "Slet Node",
+  "PublicHost": "Offentlig Host",
+  "PublicPort": "Offentlig Port",
+  "PrivateHost": "Privat Host",
+  "PrivatePort": "Privat Port",
+  "SftpPort": "SFTP Port",
+  "WithPrivateAddress": "Brug en anden vært/port til server-til-server kommunikation",
+  "WithPrivateAddressHint": "Denne separate adresse bruges, når hoved noden skal tale med den nye node. Nyttigt for eksempel, når nodes er i det samme netværk bag NAT.",
+  "SaveConfig": "Gem konfiguration",
+  "SavePublicKey": "Gem Offentlig Nøgle",
+  "DeploymentInstruction": "For at installere noden, installér PufferPanel på den nye server og placér konfigurationsfilen i `/etc/pufferpanel/`<br/>Genstart PufferPanel på den nye server bagefter.",
+  "UpdateSuccess": "Noden blev opdateret",
+  "UpdateError": "Fejl under opdatering af noden",
+  "LocalNodeInstructions": "Den lokale node kan ikke redigeres via denne skærm. For at ændre værts- eller portinformationen skal du opdatere `Master Url` i indstillingerne.",
+  "CannotEdit": "Kan Ikke Redigere"
+}

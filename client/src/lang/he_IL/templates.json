@@ -1,0 +1,119 @@
+{
+  "Templates": "תבניות",
+  "NoTemplates": "אין כאן עדיין תבניות",
+  "Deleted": "תבנית נמחקה",
+  "New": "צור תבנית חדשה",
+  "Edit": "ערוך תבנית",
+  "Editor": "עורך",
+  "Json": "JSON",
+  "Display": "שם תצוגה",
+  "Type": "סוג",
+  "Variables": "משתנים",
+  "Install": "התקנה",
+  "AddInstallStep": "הוסף דרך הורדה",
+  "DeleteInstallStep": "מחק דרך הורדה",
+  "Description": "תיאור",
+  "DataType": "סוג נתונים",
+  "DefaultValue": "ערך ברירת מחדל",
+  "Required": "דרוש",
+  "UserEditable": "משתמשים יכולים לערוך",
+  "Value": "ערך",
+  "AddOption": "הוסף אפשרות",
+  "AddCommand": "הוסף פקודה",
+  "Filename": "שם קובץ",
+  "Content": "תוכן",
+  "Source": "מקור",
+  "Target": "מטרה",
+  "Version": "גרסה",
+  "ReleaseType": "סוג הוצאה",
+  "AddFile": "הוסף קובץ",
+  "AddVariable": "הוספת משתנה",
+  "Environment": "סביבה",
+  "Environments": "סביבות",
+  "AddEnvironment": "הוספת סביבה",
+  "DefaultEnvironment": "סביבה ברירת מחדל",
+  "AddEnvVar": "Add env variable",
+  "EnvVars": "משתני סביבה",
+  "DockerImage": "Docker Image",
+  "SaveSuccess": "תבנית שמורה",
+  "VarNameNoSpaces": "משתנה לא יכול להיות ריק או להכיל רווחים",
+  "SupportedEnvironments": "סביבות נתמכות",
+  "RunConfig": "הרצת הגדרות",
+  "PreHook": "Pre Run Hook",
+  "PostHook": "Post Run Hook",
+  "AddPreStep": "Add Pre Run Step",
+  "AddPostStep": "Add Post Run Step",
+  "DeletePreStep": "Delete Pre Run Step",
+  "DeletePostStep": "Delete Post Run Step",
+  "Shutdown": "כיבוי",
+  "Command": "פקודה",
+  "WorkingDirectory": "תיקיית עבודה",
+  "Arguments": "טיעונים",
+  "AddArgument": "Add an argument",
+  "Convert": "Convert",
+  "OfferV1Convert": "This template json looks like a template for PufferPanel 1.x, do you want to automatically convert this to a template for PufferPanel 2.x?",
+  "import": {
+    "CommunityWarning": "These templates are made by the community and provided without any warranties",
+    "OverrideWarning": "WARNING: Imported templates WILL overwrite existing templates with the same ID",
+    "Import": "Import templates",
+    "Tooltip": "Import templates from the official repository",
+    "Select": "Select templates to import",
+    "Started": "Importing templates, please wait a moment",
+    "Successful": "Successfully imported template {template}",
+    "NoTemplatesTitle": "Do you want to import templates?",
+    "NoTemplatesContent": "You currently don't have any templates. Templates are necessary to create servers.<br/>Do you want to import some templates from the official PufferPanel templates repository now?"
+  },
+  "stop": {
+    "Command": "Command",
+    "Signal": "Signal"
+  },
+  "processors": {
+    "download": {
+      "ProcessorName": "Download",
+      "files": "Files"
+    },
+    "command": {
+      "ProcessorName": "Run Command",
+      "commands": "Commands"
+    },
+    "alterfile": {
+      "ProcessorName": "Change file",
+      "regex": "Treat search as RegEx",
+      "search": "Text to search",
+      "replace": "Replace with"
+    },
+    "writefile": {
+      "ProcessorName": "Write to file",
+      "text": "Content"
+    },
+    "move": {
+      "ProcessorName": "Move File",
+      "source": "Source",
+      "target": "Target"
+    },
+    "mkdir": {
+      "ProcessorName": "Create Directory"
+    },
+    "mojangdl": {
+      "ProcessorName": "Download Minecraft"
+    },
+    "forgedl": {
+      "ProcessorName": "Download Minecraft Forge"
+    },
+    "spongeforgedl": {
+      "ProcessorName": "Download Minecraft SpongeForge",
+      "releaseType": "Release Type"
+    },
+    "fabricdl": {
+      "ProcessorName": "Download Minecraft Fabric"
+    },
+    "javadl": {
+      "ProcessorName": "Download Java",
+      "version": "Version of Java to install (8, 16, 17)"
+    },
+    "steamgamedl": {
+      "ProcessorName": "Download Game from Steam",
+      "appId": "App Id"
+    }
+  }
+}

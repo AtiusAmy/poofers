@@ -1,0 +1,19 @@
+{
+  "FileManager": "סייר הקבצים",
+  "NewFolder": "תיקייה חדשה",
+  "NewFile": "קובץ חדש",
+  "LastModified": "שונה לאחרונה",
+  "ConfirmDelete": "האם אתה בטוח שברצונך למחוק את הקובץ?",
+  "Upload": "העלאה",
+  "Download": "הורדה",
+  "Size": "גודל",
+  "NoFiles": "אין פה קבצים עדיין, לך וצור קצת, לדוגמא על ידי לחיצת כפתור הורדה בחלק העליון של הדף",
+  "FileLoadFailed": "טעינת הקובץ נכשלה",
+  "Refresh": "רענן",
+  "CreateFile": "צור קובץ",
+  "CreateFolder": "צור תיקייה",
+  "ArchiveCurrentFolder": "צור ארכיון מתיקייה נוכחית",
+  "ArchiveFolder": "צור ארכיון מתיקייה",
+  "ExtractArchive": "חילוץ ארכיון",
+  "DropToUpload": "שחרר קבצים כאן כדי להעלות"
+}
